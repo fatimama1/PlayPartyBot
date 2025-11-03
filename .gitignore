@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Alembic / migrations cache
+alembic/versions/__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Databases
+*.sqlite3
+*.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
